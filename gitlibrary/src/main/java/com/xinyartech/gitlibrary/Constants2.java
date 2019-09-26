@@ -9,4 +9,5 @@ package com.xinyartech.gitlibrary;
  * </pre>
  */
 public class Constants2 {
+    public static final String url = "http://wwww.baidu.com";
 }
