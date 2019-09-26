@@ -1,0 +1,2 @@
+include ':app', ':gitlibrary'
+rootProject.name='GitUploadTest'
